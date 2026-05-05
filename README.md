@@ -1,3 +1,1 @@
-# airsite.github.io
-
-web
+# 一个简单的小网站
